@@ -1,0 +1,7 @@
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\bin\Release\ConsoleUtilities.dll.config
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\bin\Release\ConsoleUtilities.dll
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\bin\Release\ConsoleUtilities.pdb
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\obj\Release\ConsoleUtilities.csprojAssemblyReference.cache
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\obj\Release\ConsoleUtilities.csproj.CoreCompileInputs.cache
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\obj\Release\ConsoleUtilities.dll
+C:\Users\dorme\OneDrive\מסמכים\תכנות\UnknownVendorsFinder\ConsoleUtilities\obj\Release\ConsoleUtilities.pdb
